@@ -1,6 +1,6 @@
 # Applied Linguistics Paper Writing
 
-A Codex skill for applied linguistics, second language acquisition (SLA), TESOL, EFL/ESL, and English academic writing.
+A Codex skill for applied linguistics writing, with a built-in SSCI Q1 linguistics journal list and guidance for SLA, TESOL, L2 writing, and AI-assisted language teaching.
 
 This skill helps researchers and graduate students work through applied linguistics papers with a focus on research questions, literature reviews, theoretical framing, methodology, data interpretation, English academic prose, reviewer simulation, journal submission preparation, and AI-style revision.
 
@@ -68,7 +68,7 @@ This skill is based on `law-paper-writing` by zhangligong0826, originally adapte
 
 # 应用语言学论文写作
 
-这是一个用于 Codex 的应用语言学论文写作 skill，面向应用语言学、二语习得（SLA）、TESOL、EFL/ESL 和英文学术写作。
+一个用于应用语言学论文写作的 Codex skill，内嵌26年的语言学 SSCI Q1 期刊清单，并提供 SLA、TESOL、二语写作和 AI 辅助语言教学等方向的选刊与写作指导。
 
 它可以帮助研究者和研究生处理应用语言学论文写作中的多个环节，包括研究问题设计、文献综述、理论框架、研究方法、数据解释、英文学术表达、模拟审稿、期刊投稿准备，以及去 AI 味修改。
 
